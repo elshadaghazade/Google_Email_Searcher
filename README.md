@@ -1,4 +1,4 @@
-GoogleEmailSearcher is a PHP class to access google mailboxes by POP3/IMAP/NNTP using PHP's native IMAP extension and search emails.
+GoogleEmailSearcher is a PHP class to access google mailboxes by POP3/IMAP/NNTP using PHP's native IMAP extension and searchs messages by your own criteria.
 
 ### Features
 
